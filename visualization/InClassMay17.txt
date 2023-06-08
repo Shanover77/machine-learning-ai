@@ -1,0 +1,12 @@
+Name: Categorical
+Age: Ratio/Num
+Address: Categorical
+Grocery store: Categorical
+Items: Categorical
+Rewards: Ordinal (yes/no)
+Complaints: Ordinal
+Complaints category: Categorical
+
+...
+
+Stratified s'pling
