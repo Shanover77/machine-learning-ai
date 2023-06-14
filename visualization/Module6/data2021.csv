@@ -1,0 +1,35 @@
+customer_id,id,txn_type,txn_total,Customers,Products,Province,Relationship,Category
+1001,1,Debit,165.78,Johnny Awesome,3,ON,1,wealth
+1001,2,Credit,42.1,Johnny Awesome,3,ON,1,wealth
+1001,4,Credit,103.03,Johnny Awesome,3,ON,1,wealth
+1001,5,Credit,56.6,Johnny Awesome,3,ON,1,wealth
+1002,6,Debit,214.34,Bob Marley,4,ON,1,personal_banking
+1002,7,Cash,115.69,Bob Marley,4,ON,1,personal_banking
+1002,8,Debit,21.37,Bob Marley,4,ON,1,personal_banking
+1004,9,Cash,227.58,Taylor Swift,2,AB,2,hnw
+1004,10,Credit,5.92,Taylor Swift,2,AB,2,hnw
+1006,11,Debit,225.89,Stephen Smith,5,ON,4,hnw
+1014,12,Cash,67.96,Delilah Avery,2,AB,3,personal_banking
+1014,20,Debit,449.39,Delilah Avery,2,AB,3,personal_banking
+1014,28,Cash,183.08,Delilah Avery,2,AB,3,personal_banking
+1254,13,Debit,235.79,Johnson Cory,1,AB,4,hnw
+1254,21,Cash,15.26,Johnson Cory,1,AB,4,hnw
+1254,29,Credit,255.21,Johnson Cory,1,AB,4,hnw
+1285,14,Cash,160.89,Maria Alva,5,ON,2,wealth
+1285,22,Credit,393.91,Maria Alva,5,ON,2,wealth
+1285,30,Debit,256.6,Maria Alva,5,ON,2,wealth
+1354,15,Credit,377.26,Jessica Fast,4,BC,5,personal_banking
+1354,23,Debit,94.32,Jessica Fast,4,BC,5,personal_banking
+1354,31,Credit,438.29,Jessica Fast,4,BC,5,personal_banking
+1005,16,Debit,276.01,Mariah Anita Smith,2,BC,3,personal_banking
+1005,24,Debit,403.62,Mariah Anita Smith,2,BC,3,personal_banking
+1005,32,Debit,122.06,Mariah Anita Smith,2,BC,3,personal_banking
+1008,17,Credit,190.02,Robert Optimus,3,MB,10,hnw
+1008,25,Cash,242.73,Robert Optimus,3,MB,10,hnw
+1008,33,Cash,166.44,Robert Optimus,3,MB,10,hnw
+1585,18,Debit,320.4,Steven Prime,5,AB,2,wealth
+1585,26,Cash,230.24,Steven Prime,5,AB,2,wealth
+1585,34,Debit,307.91,Steven Prime,5,AB,2,wealth
+1475,19,Cash,328.72,Stephanie Element,2,ON,5,personal_banking
+1475,27,Debit,87.38,Stephanie Element,2,ON,5,personal_banking
+1475,35,Cash,266.3,Stephanie Element,2,ON,5,personal_banking
