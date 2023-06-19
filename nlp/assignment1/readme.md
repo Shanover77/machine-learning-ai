@@ -1,4 +1,4 @@
-# Assignment-1: Word Vectorization
+# Assignment-1: News title category prediction | Word vectorization | Lemmatization | SVC
 
 ## Description
 This repository sub-folder contains the code and resources for Assignment-1, which focuses on word vectorization for predicting the category of news titles. The goal of this assignment is to train a model on scraped data, consisting of news titles and their corresponding categories. The trained model will then be used to predict the category of new news titles.
