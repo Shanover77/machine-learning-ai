@@ -1,0 +1,8 @@
+pandas==1.3.0
+nltk==3.6.2
+nltk.corpus==3.6.2
+nltk.stem==3.6.2
+sklearn==0.24.2
+ssl==1.16.0
+numpy==1.21.0
+tensorflow==2.6.0
