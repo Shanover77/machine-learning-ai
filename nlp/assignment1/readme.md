@@ -87,7 +87,8 @@ python src/model_training.py
 6. Evaluate the model's performance and make predictions on new news titles as desired.
 
 ## Contributing
-This project is currently undergoing development and is not open for contributions at the moment.
+- Special thanks to /ujjawalpoudel for working together on this one
+- This project is currently undergoing development and is not open for contributions at the moment.
 
 ## License
 This project is not licensed and is meant for educational purposes.
