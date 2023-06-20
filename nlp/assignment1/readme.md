@@ -14,7 +14,7 @@ Our approach for this assignment involves the following steps:
 
 3. Model Training: Using the word vectorized data, we train a model to predict the category of news titles. The choice of the model will depend on the specific requirements and characteristics of the dataset.
 
-4. Evaluation: We assess the performance of the trained model using appropriate evaluation metrics, such as accuracy, precision, recall, or F1 score. This step helps us gauge how well the model performs in predicting the categories of news titles.
+4. Evaluation: We assess the performance of the trained model using appropriate evaluation metrics.
 
 5. Prediction: Once the model is trained and evaluated, it can be used to predict the category of new news titles. By inputting a news title into the trained model, it will provide the corresponding category prediction.
 
