@@ -61,7 +61,7 @@ To use this repository, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/Shanover77/repo-name.git
+git clone https://github.com/Shanover77/machine-learning-ai.git
 ```
 
 2. Navigate to the 'Assignment-1' sub-folder:
@@ -69,22 +69,6 @@ git clone https://github.com/Shanover77/repo-name.git
 ```
 cd Assignment-1
 ```
-
-3. Store the scraped news data in the 'data' directory (e.g., 'news_data.csv').
-
-4. Run the necessary preprocessing steps by executing the 'preprocessing.py' script:
-
-```
-python src/preprocessing.py
-```
-
-5. Train the predictive model using the 'model_training.py' script:
-
-```
-python src/model_training.py
-```
-
-6. Evaluate the model's performance and make predictions on new news titles as desired.
 
 ## Contributing
 - Special thanks to /ujjawalpoudel for working together on this one
