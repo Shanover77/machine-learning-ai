@@ -14,7 +14,7 @@ Our approach for this assignment involves the following steps:
 
 3. Model Training: Using the word vectorized data, we train a model to predict the category of news titles. The choice of the model will depend on the specific requirements and characteristics of the dataset.
 
-4. Evaluation: We assess the performance of the trained model using appropriate evaluation metrics, such as accuracy, precision, recall, or F1 score. This step helps us gauge how well the model performs in predicting the categories of news titles.
+4. Evaluation: We assess the performance of the trained model using appropriate evaluation metrics.
 
 5. Prediction: Once the model is trained and evaluated, it can be used to predict the category of new news titles. By inputting a news title into the trained model, it will provide the corresponding category prediction.
 
@@ -61,7 +61,7 @@ To use this repository, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/Shanover77/repo-name.git
+git clone https://github.com/Shanover77/machine-learning-ai.git
 ```
 
 2. Navigate to the 'Assignment-1' sub-folder:
@@ -70,24 +70,9 @@ git clone https://github.com/Shanover77/repo-name.git
 cd Assignment-1
 ```
 
-3. Store the scraped news data in the 'data' directory (e.g., 'news_data.csv').
-
-4. Run the necessary preprocessing steps by executing the 'preprocessing.py' script:
-
-```
-python src/preprocessing.py
-```
-
-5. Train the predictive model using the 'model_training.py' script:
-
-```
-python src/model_training.py
-```
-
-6. Evaluate the model's performance and make predictions on new news titles as desired.
-
 ## Contributing
-This project is currently undergoing development and is not open for contributions at the moment.
+- Special thanks to /ujjawalpoudel for working together on this one
+- This project is currently undergoing development and is not open for contributions at the moment.
 
 ## License
 This project is not licensed and is meant for educational purposes.
